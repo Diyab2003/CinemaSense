@@ -68,7 +68,7 @@ Reflection score updated in real time
 
 Graphs showing emotion distribution and reflection trends after each session
 
-![CinemaSense GUI]([https://github.com/Diyab2003/CinemaSense/blob/main/real-time.png?raw=true](https://github.com/Diyab2003/CinemaSense/blob/main/cam%20real-time.png?raw=true))
+![CinemaSense GUI](https://github.com/Diyab2003/CinemaSense/blob/main/cam%20real-time.png?raw=true)
 ![Emotion Report](https://github.com/Diyab2003/CinemaSense/blob/main/Summary.png?raw=true)
 ![Graph](https://github.com/Diyab2003/CinemaSense/blob/main/Graph.png?raw=true)
 
