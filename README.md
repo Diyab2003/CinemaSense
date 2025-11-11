@@ -4,9 +4,9 @@ CinemaSense is a real-time emotion detection system that captures audience react
 The goal is to get genuine feedback without interrupting the viewing experience — using facial emotion recognition instead of surveys or forms.
 
 This project was developed as part of our Minor Project at St. Joseph’s College of Engineering and Technology (SJCET).
-### Team Members
-Diya Benny
-Shraya S Santhosh
+#### Team Members
+Diya Benny,
+Shraya S Santhosh,
 Tom Sibu
 
 ## 🧠 About the Project
