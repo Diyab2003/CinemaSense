@@ -72,8 +72,6 @@ Graphs showing emotion distribution and reflection trends after each session.
   <img src="https://github.com/Diyab2003/CinemaSense/blob/main/cam%20real-time.png?raw=true" width="100%" alt="CinemaSense live emotion detection">
 </p>
 
-![Emotion Report](https://github.com/Diyab2003/CinemaSense/blob/main/Summary.png?raw=true)
-![Graph](https://github.com/Diyab2003/CinemaSense/blob/main/Graph.png?raw=true)
 
 ## 💡 Future Improvements
 
